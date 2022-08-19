@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "deneme33": {
+    "LoginIdentityExample": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

@@ -1,4 +1,4 @@
-﻿using deneme33.Data.Entities;
+﻿using LoginIdentityExample.Data.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;

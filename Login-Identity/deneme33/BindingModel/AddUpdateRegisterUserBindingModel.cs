@@ -1,4 +1,4 @@
-﻿namespace deneme33.BindingModel
+﻿namespace LoginIdentityExample.BindingModel
 {
     public class AddUpdateRegisterUserBindingModel
     {

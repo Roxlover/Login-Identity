@@ -1,7 +1,7 @@
 ﻿using Application.Infrastructure;
-using deneme33.BindingModel;
-using deneme33.Data.Entities;
-using deneme33.DTO;
+using LoginIdentityExample.BindingModel;
+using LoginIdentityExample.Data.Entities;
+using LoginIdentityExample.DTO;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace deneme33.Controllers
+namespace LoginIdentityExample.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

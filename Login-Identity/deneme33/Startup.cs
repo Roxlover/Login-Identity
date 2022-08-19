@@ -1,5 +1,5 @@
 using Claim.Data;
-using deneme33.Data.Entities;
+using LoginIdentityExample.Data.Entities;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -16,7 +16,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace deneme33
+namespace LoginIdentityExample
 {
     public class Startup
     {
@@ -37,7 +37,7 @@ namespace deneme33
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "deneme33", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "LoginIdentityExample", Version = "v1" });
             });
             services.Configure<IdentityOptions>(options =>
             {
@@ -65,7 +65,7 @@ namespace deneme33
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "deneme33 v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "LoginIdentityExample v1"));
             }
 
             app.UseHttpsRedirection();

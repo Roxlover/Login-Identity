@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace deneme33.Migrations
+namespace LoginIdentityExample.Migrations
 {
     public partial class mig1 : Migration
     {

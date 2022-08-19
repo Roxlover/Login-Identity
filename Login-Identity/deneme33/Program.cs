@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace deneme33
+namespace LoginIdentityExample
 {
     public class Program
     {

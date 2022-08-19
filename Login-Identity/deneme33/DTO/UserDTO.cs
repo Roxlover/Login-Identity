@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace deneme33.DTO
+namespace LoginIdentityExample.DTO
 {
     public class UserDTO
     {

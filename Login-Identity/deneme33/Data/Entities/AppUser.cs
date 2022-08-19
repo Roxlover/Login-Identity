@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System;
 
-namespace deneme33.Data.Entities
+namespace LoginIdentityExample.Data.Entities
 {
     public class AppUser:IdentityUser
     {
