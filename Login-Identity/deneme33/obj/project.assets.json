@@ -6141,9 +6141,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\deneme33.csproj",
-      "projectName": "deneme33",
-      "projectPath": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\deneme33.csproj",
+      "projectUniqueName": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\LoginIdentityExample.csproj",
+      "projectName": "LoginIdentityExample",
+      "projectPath": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\LoginIdentityExample.csproj",
       "packagesPath": "C:\\Users\\Sıla\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\obj\\",
       "projectStyle": "PackageReference",

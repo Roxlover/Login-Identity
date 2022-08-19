@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUU7LXUuxF5VLiI65/FS/lxmyRzSSnMYbG7I+WL9w0WdudsFzGUkYgPw/GrqE2kacrsJK5E01NORDogd2nKGog==",
+  "dgSpecHash": "LQKJVhEtiEXQXD3bnY3mIZiR7yqwnnypvIG0Z/aqyRELq6DBxQkjOLb27c/UXd7B7Jj1cbFWyJCzHozBWF0IYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\deneme33.csproj",
+  "projectFilePath": "C:\\Users\\Sıla\\Documents\\GitHub\\Login-Identity\\Login-Identity\\deneme33\\LoginIdentityExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sıla\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sıla\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",
