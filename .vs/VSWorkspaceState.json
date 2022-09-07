@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Login-Identity"
   ],
+  "SelectedNode": "\\Login-Identity\\LoginIdentityExample.sln",
   "PreviewInSolutionExplorer": false
 }
