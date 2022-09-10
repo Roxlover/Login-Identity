@@ -81,4 +81,3 @@ namespace LoginIdentityExample
         }
     }
 }
-// login identity
